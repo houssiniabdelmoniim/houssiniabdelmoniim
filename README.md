@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-- 🧠 Computer science student, currently interning on the Nodma Toolkit project
+- 🧠 Computer science student
 - 💻 Passionate about coding and always learning new things
 - 🌱 Exploring web development, networking and backend
 
