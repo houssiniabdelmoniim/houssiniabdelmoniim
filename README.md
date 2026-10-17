@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&v=2)
+![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&v=2&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a)
 
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=houssiniabdelmoniim&layout=compact&theme=dark&hide_border=true)
 
@@ -31,3 +31,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmoniim-houssini-903b04314/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.abdelmoniim@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:ff2a2a&height=120&section=footer" width="100%" />
