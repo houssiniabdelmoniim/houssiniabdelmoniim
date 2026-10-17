@@ -33,3 +33,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.abdelmoniim@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:ff2a2a&height=120&section=footer" width="100%" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF2A2A&center=true&vCenter=true&width=500&height=40&lines=Thank+you+for+stopping+by!+✨" alt="Thank you for stopping by!" />
+*Explore my repos, open issues, or just reach out. Together, we can turn ideas into reality.*
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:ff2a2a&height=120&section=footer" width="100%" />
