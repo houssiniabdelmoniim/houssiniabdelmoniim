@@ -33,7 +33,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.abdelmoniim@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:ff2a2a&height=120&section=footer" width="100%" />
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f0000,100:ff2a2a&height=120&section=footer" width="100%" />
 Thanks for stopping by 
