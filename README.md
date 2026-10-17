@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&v=2)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=houssiniabdelmoniim&layout=compact&theme=dark&hide_border=true)
 
