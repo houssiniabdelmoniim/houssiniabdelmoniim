@@ -25,7 +25,7 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&v=2&ring=ff2a2a&fire=fe2a2a&currStreakLabel=ff2a2a)
 
-![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=houssiniabdelmoniim&layout=compact&theme=dark&hide_border=false)
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=houssiniabdelmoniim&layout=compact&theme=dark&hide_border=true)
 
 ## 📫 Contact
 
