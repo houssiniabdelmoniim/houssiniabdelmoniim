@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-- 🧠 Computer science student
+- 🧠 I am a computer science student
 - 💻 Passionate about coding and always learning new things
 - 🌱 Exploring web development, networking and backend
 
