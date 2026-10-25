@@ -25,6 +25,8 @@
  
 ![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&ring=ff2b2b&fire=ff2a2b&currStreakLabel=ff2b2b&currStreakNum=ff2b2b)
 
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=houssiniabdelmoniim&theme=dark&hide_border=true&show_icons=true&title_color=ff2b2b&icon_color=ff2b2b&ring_color=ff2b2b&text_color=ffffff)
+
 [![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=houssiniabdelmoniim&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=21600&v=2)](https://github.com/houssiniabdelmoniim)
 
 ## 📫 Contact
