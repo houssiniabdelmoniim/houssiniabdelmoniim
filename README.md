@@ -23,7 +23,7 @@
  
 ## 📊 GitHub Stats
  
-![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a&currStreakNum=ff2a2a&v=4)
+![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a&currStreakNum=ff2a2a&v=5)
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=houssiniabdelmoniim&theme=dark&hide_border=true&show_icons=true&title_color=ff2b2b&icon_color=ff2b2b&ring_color=ff2b2b&text_color=ffffff)
 
