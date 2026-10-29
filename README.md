@@ -23,7 +23,7 @@
  
 ## 📊 GitHub Stats
  
-![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a&currStreakNum=ff2a2a&v=8)
+![Streak](https://streak-stats.demolab.com/?user=houssiniabdelmoniim&theme=dark&hide_border=true&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a&currStreakNum=ff2a2a&v=9)
 
 [![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=houssiniabdelmoniim&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=21600&v=2)](https://github.com/houssiniabdelmoniim)
 
